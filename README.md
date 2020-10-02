@@ -1,5 +1,6 @@
 # Skillshare-Premium-Downloader
-<h3>Download Premium Skillshare Courses</h3>
+<h3>Overviews</h3>
+Download any premium Skillshare course with just this Python tool and the course's url.
 
 <h3>Installation of Dependencies:</h3>
 
