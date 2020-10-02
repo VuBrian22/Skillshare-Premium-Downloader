@@ -1,5 +1,5 @@
 # Skillshare-Premium-Downloader
-<h5>Download Premium Skillshare Courses</h5>
+<h3>Download Premium Skillshare Courses</h3>
 
 Environment
 Python 3.7+ (have installed necessary dependencies.)
