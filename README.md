@@ -15,8 +15,6 @@ or
 
 
 <h3>Usage:</h3>
-To download a course open a command line tool on directory and write
+To download a course open a command line tool from within the directory and use the command "python dl.py YOUR_COURSE_URL"
 
-python dl.py and your course url
-
-python dl.py https://www.skillshare.com/classes/Investing-101-Understanding-the-Stock-Market/1489034423
+"python dl.py https://www.skillshare.com/classes/Investing-101-Understanding-the-Stock-Market/1489034423"
