@@ -8,7 +8,7 @@ Environment: Python 3.7+ (have installed necessary dependencies.)
   
 "pip install -r requirements.txt" 
 or  
-"py -3 -m pip install -r requirements.txt"  
+"python3 -m pip install -r requirements.txt"  
 
 
 <h3>Usage:</h3>
